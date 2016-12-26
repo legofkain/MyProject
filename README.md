@@ -4,7 +4,7 @@ Hello this is my first time trying GitHub.Just made an account and started writi
 
 <html>
 <head>
-<title>Big Bad Title</title>
+<title><h1>Big Bad Title</h1></title>
 </head>
 <body>
 <div id = "main">
